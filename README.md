@@ -1,2 +1,2 @@
-# 2023324_Proyecto_KinalSupermercado
+# Tics tareas
 Proyecto implementando JavaFX, MVC, JDBC
